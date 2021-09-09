@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![osushicrusher's GitHub stats](https://github-readme-stats.vercel.app/api?username=osushicrusher&theme=vue-dark&show_icons=true)](https://github.com/osushicrusher/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osushicrusher&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/osushicrusher/github-readme-stats)
+<a href="https://github.com/osushicrusher/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=osushicrusher&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/osushicrusher/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osushicrusher" />
+</a>
 
 <!--
 **osushicrusher/osushicrusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
