@@ -1,4 +1,4 @@
-Front-End Engineer based in Tokyo, Japan
+SWE based in Tokyo, Japan
 
 Likes
 - ☕ 
